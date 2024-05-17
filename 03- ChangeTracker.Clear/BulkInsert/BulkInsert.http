@@ -1,0 +1,6 @@
+@BulkInsert_HostAddress = http://localhost:5062
+
+GET {{BulkInsert_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
