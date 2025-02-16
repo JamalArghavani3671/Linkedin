@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMailer", "EasyMailer\EasyMailer.csproj", "{48A94F97-2893-4439-98B3-03861D1D28F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{52CD180B-6A96-4D7C-BA42-D3D2386368B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A94F97-2893-4439-98B3-03861D1D28F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A94F97-2893-4439-98B3-03861D1D28F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A94F97-2893-4439-98B3-03861D1D28F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A94F97-2893-4439-98B3-03861D1D28F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CD180B-6A96-4D7C-BA42-D3D2386368B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CD180B-6A96-4D7C-BA42-D3D2386368B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CD180B-6A96-4D7C-BA42-D3D2386368B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CD180B-6A96-4D7C-BA42-D3D2386368B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
